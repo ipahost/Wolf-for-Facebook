@@ -10,10 +10,21 @@ A powerful tweak for Facebook!
    
     | Application | Version | Wolf |
     | --- | --- | --- |
-    | [Facebook](https://mega.nz/file/cJRg0aoZ#2VR3Pez6gZXOLsqqZ6PkgEdWGqbX0TUnWszXT0Ndy_U) | 287.0 | 1.5 |
+    | [Facebook](https://mega.nz/file/BNJAnZIJ#_RsZFTLgE9nALeacb251d88yQzeCi4ZfSk4I07Do_hk) | 293.0 | 1.6 |
 
         
 &nbsp;
+
+***Features***
+
+- [x] Save feed videos
+- [x] Like confirmation
+- [x] No story and food ads 
+- [x] Save story images and videos
+- [x] Disable auto-advance in stories
+- [x] Disable marking stories
+- [x] Disable typing status in messages
+- [x] Disable marking messages as seen
 
 ## How to Download
 

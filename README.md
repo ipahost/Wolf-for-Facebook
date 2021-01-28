@@ -10,7 +10,7 @@ A powerful tweak for Facebook!
    
     | Application | Version | Wolf |
     | --- | --- | --- |
-    | [Facebook](https://mega.nz/file/9dRCTLLB#TSP-suD1PxaAkTG87Rf1cZiebDhYxyPzCoZdlhsIqas) | 297.0 | 1.7.3 |
+    | [Facebook](https://mega.nz/file/JFRDkAjA#RhvpUo557xj6eHexAjlpfpYDKQuZCoQ9Om0ahkV9dn8) | 302.1 | 1.8 |
 
         
 &nbsp;
@@ -43,6 +43,3 @@ A powerful tweak for Facebook!
 
 ***Please note that push notifications may not work***
 
-
-### TODO 
-A more thorough guide is needed!  

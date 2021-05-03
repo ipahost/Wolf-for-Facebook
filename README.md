@@ -10,7 +10,7 @@ A powerful tweak for Facebook!
    
     | Application | Version | Wolf |
     | --- | --- | --- |
-    | [Facebook](https://mega.nz/file/8UAy0BzR#ZmytDeB60A4ViIKC6JS_CK2f4KMfvgh7q__01xE4-rI) | 312.0 | 2.1 |
+    | [Facebook](https://mega.nz/file/EJ5SgQ6Q#AQ7T0oTQmSoZUV0swI0R1XryHnLA8bgmYilTjH0m2xQ) | 316.0 | 2.1 |
 
         
 &nbsp;
